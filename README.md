@@ -1,1 +1,1 @@
-This is a numberbot
+This bot send some facts about 42 number
